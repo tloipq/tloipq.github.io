@@ -10,3 +10,5 @@ Gemfile.lock
 
 # Mac OSX
 .DS_Store
+.bundle
+vendor

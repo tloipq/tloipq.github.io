@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your title
-email: your-email@example.com
-name: Your name
+title: 凹凸啦查妆
+email: tloipq@gmail.com
+name: 凹凸啦查妆
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
-keywords: [Your keywords]
+  化妆品让你今天真好看
+keywords: [查批号,查妆,凹凹兔,你今天真好看,查妆妆,红线,心心鉴定,凹凸啦查妆,心心查妆,识妆,化妆品批号查询,保质期查询,生产日期查询]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "example.com" # the domain name for your site, e.g. example.com
-language: en
+domain: "aoaola.net" # the domain name for your site, e.g. example.com
+language: zh-cn
 # Supported languages list:
 # en: English
 # de: Deutsche (German)

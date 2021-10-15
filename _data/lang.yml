@@ -1,6 +1,8 @@
 en:
   menu_index: "Index"
   menu_category: "Categories"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "About"
   paginator_previous: "Previous"
   paginator_pages: "Page: "
@@ -13,10 +15,13 @@ en:
   post_previous: "Previous: "
   post_next: "Next: "
   categories_title: "Categories"
+  copyright: "Copyright &copy;"
 
 de:
   menu_index: "Index"
   menu_category: "Kategorien"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "Über"
   paginator_previous: "Bisherige"
   paginator_pages: "Seite: "
@@ -29,10 +34,13 @@ de:
   post_previous: "Bisherige: "
   post_next: "Nächster: "
   categories_title: "Kategorien"
+  copyright: "Copyright &copy;"
 
 es:
   menu_index: "Índice"
   menu_category: "Categorías"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "Sobre"
   paginator_previous: "Anterior"
   paginator_pages: "Página: "
@@ -45,10 +53,13 @@ es:
   post_previous: "Anterior: "
   post_next: "Siguiente: "
   categories_title: "Categorías"
+  copyright: "Copyright &copy;"
 
 fr:
   menu_index: "Indice"
   menu_category: "Catégories"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "Sur"
   paginator_previous: "Précédent"
   paginator_pages: "Page: "
@@ -61,10 +72,13 @@ fr:
   post_previous: "Précédent: "
   post_next: "Prochain: "
   categories_title: "Catégories"
+  copyright: "Copyright &copy;"
 
 ja:
   menu_index: "ホーム"
   menu_category: "分類"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "私について"
   paginator_previous: "前のページ"
   paginator_pages: "ページ数："
@@ -77,10 +91,13 @@ ja:
   post_previous: "前の記事："
   post_next: "次の記事："
   categories_title: "分類"
+  copyright: "Copyright &copy;"
 
 pt:
   menu_index: "Índice"
   menu_category: "Categorias"
+  menu_privacy_policy: "Privacy Policy"
+  menu_terms_of_use: "Terms Of Use"
   menu_about: "Sobre"
   paginator_previous: "Anterior"
   paginator_pages: "Página: "
@@ -93,10 +110,13 @@ pt:
   post_previous: "Anterior: "
   post_next: "Próximo: "
   categories_title: "Categorias"
+  copyright: "Copyright &copy;"
 
 zh-cn:
   menu_index: "首页"
   menu_category: "分类"
+  menu_privacy_policy: "隐私协议"
+  menu_terms_of_use: "使用条款"
   menu_about: "关于我"
   paginator_previous: "前一页"
   paginator_pages: "页数："
@@ -109,10 +129,13 @@ zh-cn:
   post_previous: "前一篇："
   post_next: "后一篇："
   categories_title: "分类"
+  copyright: "版权所有 &copy;"
 
 zh-tw:
   menu_index: "首頁"
   menu_category: "分類"
+  menu_privacy_policy: "隐私协议"
+  menu_terms_of_use: "使用条款"
   menu_about: "關於我"
   paginator_previous: "前一頁"
   paginator_pages: "頁數："
@@ -125,3 +148,5 @@ zh-tw:
   post_previous: "前一篇："
   post_next: "後一篇："
   categories_title: "分類"
+  copyright: "Copyright &copy;"
+
